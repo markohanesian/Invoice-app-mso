@@ -11,11 +11,11 @@ const Login = () => {
           resizeMode="contain"
         />
         {/* <Text style={styles.title}>Invoice App</Text> */}
-        <Text style={styles.subtitle}>by MSO</Text>
+        {/* <Text style={styles.subtitle}>by MSO</Text> */}
       </View>
       <View style={styles.descriptionContainer}>
         <Text style={styles.description}>
-          Our invoice app makes it easy to create, send, and track invoices on the go. 
+          Create, send, and track invoices on the go. 
         </Text>
       </View>
       <TouchableOpacity style={styles.signUpButton}>
